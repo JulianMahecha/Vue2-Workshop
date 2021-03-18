@@ -102,7 +102,7 @@
     "hash-sum": "^1.0.2",
     "he": "^1.1.1",
     "http-server": "^0.11.1",
-    "jasmine": "^2.99.0",
+    "jasmine": "^3.7.0",
     "jasmine-core": "^2.99.0",
     "karma": "^3.1.1",
     "karma-chrome-launcher": "^2.1.1",
